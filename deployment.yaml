@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: mycontainer
-        image: abhidochub123/img-1:lts  
+        image: abhidochub123/cicd-pipeline:lts
         ports:
         - containerPort: 8080
